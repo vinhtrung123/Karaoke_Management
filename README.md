@@ -23,5 +23,3 @@ The Karaoke Management System is a Windows Forms application designed to manage 
 ### Step 3: Running the Application
 - Build the solution in Visual Studio by selecting `Build > Build Solution`.
 - Start the application by pressing the "Start" button or selecting `Debug > Start Without Debugging`.
-
-These instructions will help you set up and run the Karaoke Management System smoothly. If you need further assistance, feel free to reach out!
