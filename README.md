@@ -17,7 +17,7 @@ The Karaoke Management System is a Windows Forms application designed to manage 
   - Select the appropriate database (or create a new one) and execute the script by pressing the "Execute" button.
 
 ### Step 2: Configuring the Application
-- Open the solution file `KaraokeManagement.sln` in Visual Studio 2013 or later.
+- Open the solution file `QL_QUANKARAOKE.sln` in Visual Studio 2013 or later.
 - Connect to the database.
 
 ### Step 3: Running the Application
